@@ -1,2 +1,2 @@
 # The North Table 
-Restaurant website -taste of gb
+Restaurant website -taste of GB
